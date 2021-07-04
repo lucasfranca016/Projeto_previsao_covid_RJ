@@ -1,5 +1,7 @@
 # Projeto previsão de novos casos de Covid-19 no estado do RJ
 
+<p align="center"><img src=https://veja.abril.com.br/wp-content/uploads/2020/07/PRAIA-DO-LEME-RIO-DE-JANEIRO-COVID-19-BRASIL-2020-12.JPG.jpg?quality=70&strip=info&resize=680,453 </p> 
+
 # **Introdução**
 
 Este é o terceiro projeto feito por mim em função do Bootcamp de Data Science aplicada da Alura. Nele usarei os processos de análise e manipulação de dataframes em conjunto com ferramentas gráficas para analisar séries temporais, inicialmente comparando a evolução no número de casos no estado do Rio de Janeiro com a evolução no número de Casos na cidade de Berlim, Alemanha. Em seguida, utilizarei-me de métodos estatíticos e da biblioteca Prophet para formular um modelo preditivo dos novos casos de Covid-19 no estado do Rio de Janeiro.
