@@ -1,4 +1,4 @@
-# Projeto previsão de novos casos de Covid-19 no estado do RJ
+# Projeto de análise e previsão do índice de novos casos de Covid-19 no RJ.
 
 <p align="center"><img src=https://veja.abril.com.br/wp-content/uploads/2020/07/PRAIA-DO-LEME-RIO-DE-JANEIRO-COVID-19-BRASIL-2020-12.JPG.jpg?quality=70&strip=info&resize=680,453 </p> 
 
