@@ -59,7 +59,8 @@ Assim, comparados as quantidades como o R² e o erro absoluto da média, que sã
 
 ## **Conclusões**
 
-- Observamos a partir do primeiro gráfico, o gráfico que compara o índice de novos casos a cada 100 mil habitantes entre as cidades de Berlim e Rio de Janeiro, que durante a primeira onda o Rio de Janeiro sofre com um grande número de novos casos  e que só para de decrescer em meados de Agosto, enquanto que em Berlim no mesmo período esse índice se encontra estável e com um número de casos bastante inferior, assim, fortalecendo a hipótese de que medidas de isolamento social são eficazes no combate à Covid-19 se bem aplicadas.
+- Observamos a partir do primeiro gráfico, o gráfico que compara o índice de novos casos a cada 100 mil habitantes entre as cidades de Berlim e Rio de Janeiro, que durante a primeira onda o Rio de Janeiro sofre com um grande número de novos casos  e que só para de decrescer em meados de Agosto, enquanto que em Berlim no mesmo período esse índice se encontra estável e com um número de casos bastante inferior, assim, fortalecendo a hipótese de que medidas de isolamento social são eficazes no combate à Covid-19 se bem aplicadas.Aliado à análise gráfico temos o teste de hipótese aplicado que corrobora nossa tese.
+
 
 - Observamos um claro aumento no número de casos em ambos os estados aproximadamente no mês de Outubro de 2020 e Março de 2021, representando as segunda e terceira onda. O Rio de Janeiro, que não conseguiu estabilizar o número de novos casos, sofre com o contínuo aumento desse índice em média, apesar de alguns momentos de descréscimo, já Berlin que relaxou suas medidas sofreu o impacto dessa segunda onda intenssamente, contudo, propôs novas medidas de isolamento social para parar o aumento de novos casos e controlar a crise no estado.
 
